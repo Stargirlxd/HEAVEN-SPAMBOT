@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  <b> 🇧 🇦 🇦 🇵  🇯 🇮 🇮  🇸 🇵 🇦 🇲  🇧 🇴 🇹 🇸 </b>
+  <b> Heaven </b>
 
 </h1>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
 
-  <img src="https://telegra.ph/file/50cd1ef8bb832422356e1.jpg" alt="🅱🅰🅰🅿 🅹🅸🅸  SPAMBOT">
+  <img src="" alt="🅱🅰🅰🅿 🅹🅸🅸  SPAMBOT">
 
 </p>
 
