@@ -14,7 +14,7 @@
 
 </p>
 
-##  ❄︎ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ❄︎
+##  🔶ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ🔶
 
 [![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sumit9969/HEAVEN-SPAMBOT)
 
