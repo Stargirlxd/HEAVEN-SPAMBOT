@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  <b> ᕼᗴ𝗔ᐯ𝗘ᑎ Տᑭ𝗔ᗰ ᗷ𝗢T </b>
+  <b> ʜᴇᴀᴠᴇɴ sᴘᴀᴍ ʙᴏᴛ </b>
 
 </h1>
 
@@ -14,7 +14,7 @@
 
 </p>
 
-## ⚡ ᗪᗴᑭᒪOY Oᑎ ᕼᗴᖇOKU
+##  ❄︎ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ❄︎
 
 [![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sumit9969/HEAVEN-SPAMBOT)
 
