@@ -1264,7 +1264,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "ᗩᗷᗷ Tᗴᖇᗩ ᗷᗩᗩᑭ ᑕᕼᝪᗞᗴᏀᗩ ᎢᑌᏃᗴ ᗩᗩᒍᗩ ᗷᗴᎢᗩ ᗩᗷᗷ 🔥🥵"
+            text = "ＲＵＫ ＪＡＡ ＢＳＤＫ🔥🥵"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1274,7 +1274,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "ᗩᗷᗷ Tᗴᖇᗩ ᗷᗩᗩᑭ ᑕᕼᝪᗞᗴᏀᗩ ᎢᑌᏃᗴ ᗩᗩᒍᗩ ᗷᗴᎢᗩ ᗩᗷᗷ 🔥🥵"
+            text = "ᗩᗷᗷ Tᗴᖇᗩ ᗷᗩᗩᑭ ᑕᕼᝪᗞᗴᏀᗩ ᎢᑌᏃᗴ ᗩᗩᒍᗩ ᗷᗴᎢᗩ 🔥🥵"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1373,7 +1373,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None)
         end = datetime.now()
         ms = (end - start).microseconds / 1000
-        await event.edit(f"ɢᴇᴛ ʀᴇᴀᴅʏ ᴛᴏ ꜰɪɢʜᴛ\n`{ms}` ᴍs\n ʜᴇᴀᴠᴇɴ X sᴘᴀᴍ")
+        await event.edit(f"ɢᴇᴛ ʀᴇᴀᴅʏ ᴛᴏ ꜰɪɢʜᴛ\n`{ms}` ᴍs\n X sᴘᴀᴍ")
 
      
         
